@@ -27,12 +27,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ![](/images/Social-proof-section.png.jpg)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
@@ -52,6 +46,4 @@ Use this section to recap over some of your major learnings while working throug
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@MhizGordon](https://www.frontendmentor.io/profile/MhizGordon)
